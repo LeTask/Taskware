@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeTask/Taskware/main/NewMainScript.lua", true))()
