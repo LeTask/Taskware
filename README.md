@@ -11,7 +11,7 @@
 1. Download a Roblox executor of your choice from the list of supported executors provided below.
 2. Execute the provided loadstring below.
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LeTask/Taskware/main/NewMainScript.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LeTask/Taskware/main/MainScript.lua", true))()
 ```
 
 ## Supported Executers
